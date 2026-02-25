@@ -1,16 +1,30 @@
-# farmer_support_app
+# Krishi App 🌾
 
-A new Flutter project.
+Krishi App is a multilingual agriculture support mobile application built using Flutter. It helps farmers access crop information easily in multiple languages.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+-  Crop information database 
+- Multilingual support (10 languages) 
+- Clean and simple UI 
+- APK available for download 
+- Location-based features (future scope) 
 
-A few resources to get you started if this is your first Flutter project:
+## APK Download
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Download and install the APK from this repository.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+
+- Flutter
+- Dart
+- Android Studio
+
+## Developer
+
+
+GitHub: https://github.com/adithyasanjayp
+
+---
+
+This project is part of my learning and development in Flutter and mobile app development.
