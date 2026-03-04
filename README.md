@@ -1,4 +1,4 @@
-# farmer_support_app
+#Krishi App
 
 A new Flutter project.
 
